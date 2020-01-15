@@ -1,5 +1,5 @@
 # Fake-and-Legit-News-Dataset
-Fake and Legit News Dataset.   ***The Most Innovative Dataset*** prize in Qatar International Cybersecurity Contest (QICC) October 3rd 2019.   Team: DZ-NLP   members:  1- Dr. Nagoudi El Moatez Billah.  2- Student Raki Lachraf.
+Fake and Legit News Dataset.   ***The Most Innovative Dataset*** prize in Qatar International Cybersecurity Contest (QICC) October 3rd 2019.   Team: DZ-NLP   members:  1- Dr. Nagoudi El Moatez Billah.  2- Student Raki Lachraf 3-Soltani Oussama 4- Selmi Mohammed.
 
 # Collection Procedure 
 The team targeted popular Algerian facebook pages as a priority one. One of these pages admins were already Fake News fighters which gave us a huge advantage in labeling data (Fake News DZ). Secondly, the search zone expanded to concern many other Arabic websites. 
